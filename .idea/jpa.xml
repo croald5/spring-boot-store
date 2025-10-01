@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.repository.CrudRepository">
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/codewithmosh/store/entities" />
+    <option name="reverseEngineeringLastDbConnectionId" value="44f939bc-ab7d-41ab-899a-0e30308aaeec" />
+  </component>
+</project>
